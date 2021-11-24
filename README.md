@@ -5,4 +5,5 @@ ForgeGradle
 
 Minecraft mod development framework used by Forge and FML for the gradle build system
 
-//推荐使用官方正版网站来运行ForgeGradle
+
+It is Recommended to use the official genuine website to run forgegradle
